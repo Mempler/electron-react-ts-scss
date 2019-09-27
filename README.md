@@ -1,14 +1,14 @@
-# Electron React TS
+# Electron React TS SCSS
 
-basically a template to build a React app using Typescript for Electron!
+basically a template to build a React app using Typescript and SASS for Electron!
 
 # Install and launch
 ```sh
 # Clone the repository
-$ git clone https://github.com/Mempler/electron-react-ts
+$ git clone https://github.com/Mempler/electron-react-ts-scss
 
 # Install and launch
-$ cd electron-react-ts
+$ cd electron-react-ts-scss
 $ npm run start:electron
 
 # to start a dev server
