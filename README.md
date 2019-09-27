@@ -7,6 +7,9 @@ basically a template to build a React app using Typescript and SASS for Electron
 # Clone the repository
 $ git clone https://github.com/Mempler/electron-react-ts-scss
 
+# Install modules
+$ npm install
+
 # Install and launch
 $ cd electron-react-ts-scss
 $ npm run start:electron
